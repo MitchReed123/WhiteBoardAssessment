@@ -1,0 +1,7 @@
+C:\Users\Reedm\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\WBChallenge\bin\Debug\WBChallenge.exe.config
+C:\Users\Reedm\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\WBChallenge\bin\Debug\WBChallenge.exe
+C:\Users\Reedm\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\WBChallenge\bin\Debug\WBChallenge.pdb
+C:\Users\Reedm\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\WBChallenge\obj\Debug\WBChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Reedm\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\WBChallenge\obj\Debug\WBChallenge.exe
+C:\Users\Reedm\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\WBChallenge\obj\Debug\WBChallenge.pdb
+C:\Users\Reedm\OneDrive\Desktop\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\WBChallenge\obj\Debug\WBChallenge.csprojAssemblyReference.cache
